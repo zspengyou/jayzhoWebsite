@@ -10,8 +10,8 @@
   height: 100%;
 }
 #loveHeart {
-  float: left;
-  width: 670px;
+  float: right;
+  width: 675px;
   height: 625px;
 }
 #garden {
@@ -55,12 +55,12 @@
 }
 #code {
   float: left;
-  width: 440px;
+  width: 500px;
   height: 400px;
   color: #333;
   font-family: "Consolas", "Monaco", "Bitstream Vera Sans Mono", "Courier New",
     "sans-serif";
-  font-size: 12px;
+  font-size: 25px;
 }
 #code .string {
   color: #2a36ff;
